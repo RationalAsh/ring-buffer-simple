@@ -27,6 +27,5 @@ int main(int argc, char **argv)
         }
     }
     print_buffer(&rb);
-    printf("Hello world!\n");
     return 0;
 }
